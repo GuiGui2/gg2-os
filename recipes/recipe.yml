@@ -34,7 +34,7 @@ modules:
       install:
         - org.gnome.Loupe
       remove:
-        - org.mozilla.thunderbird
+        - org.mozilla.Thunderbird
         
     user: {} # Also add Flathub user repo, but no user packages
 
