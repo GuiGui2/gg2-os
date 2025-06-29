@@ -1,0 +1,4 @@
+type: systemd
+system:
+  enabled:
+    - power-profiles-daemon.service
