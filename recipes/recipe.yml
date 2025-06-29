@@ -17,4 +17,5 @@ modules:
       - source: system
         destination: /
   - from-file: common/packages.yml
+  - from-file: common/flatpaks.yml
   - type: signing
