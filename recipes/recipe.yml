@@ -18,4 +18,5 @@ modules:
         destination: /
   - from-file: common/packages.yml
   - from-file: common/flatpaks.yml
+  - from-file: common/bling.yml
   - type: signing
