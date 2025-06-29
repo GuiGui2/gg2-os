@@ -1,0 +1,5 @@
+type: gnome-extensions
+install:
+  - ArcMenu
+uninstall:
+  - GSConnect
