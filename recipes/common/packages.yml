@@ -9,3 +9,6 @@ install:
     - firefox
     - firefox-langpacks
     - power-profiles-daemon
+remove:
+  package:
+    tuned-pppd
