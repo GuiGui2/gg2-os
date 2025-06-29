@@ -20,4 +20,5 @@ modules:
   - from-file: common/packages.yml
   - from-file: common/flatpaks.yml
   - from-file: common/bling.yml
+  - fro;-file: common/systemd.yml
   - type: signing
