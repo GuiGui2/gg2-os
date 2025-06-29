@@ -1,7 +1,7 @@
 type: dnf
 repos:
   copr:
-    - atim/starsip
+    - atim/starship
 install:
   packages:
     - micro
