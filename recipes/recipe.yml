@@ -15,17 +15,6 @@ modules:
   - type: files
     files:
       - source: system
-        destination: / # copies files/system/* (* means everything inside it) into your image's root folder /
-
-  - type: dnf
-    repos:
-      copr:
-        - atim/starship
-    install:
-      packages:
-        - micro
-        - starship
-        - firefox
-        - firefox-langpacks
-    remove:
+        destination: /
+  - from-file: common/packages.yml
   - type: signing
