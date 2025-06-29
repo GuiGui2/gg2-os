@@ -1,0 +1,10 @@
+type: dnf
+repos:
+  copr:
+    - atim/starsip
+install:
+  packages:
+    - micro
+    - starship
+    - firefox
+    - firefox-langpacks
