@@ -2,7 +2,9 @@ type: default-flatpaks
 system:
   install:
     - org.gnome.Loupe
+    - com.borgbase.Vorta
   remove:
     - org.mozilla.Thunderbird
     - org.gnome.DejaDup
     - org.gnome.World.PikaBackup
+user: {} # Also add Flathub user repo, but no user packages
