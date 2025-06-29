@@ -27,20 +27,7 @@ modules:
         - firefox
         - firefox-langpacks
     remove:
-
-  - type: default-flatpaks
-    notify: true # Send notification after install/uninstall is finished (true/false)
-    system:
-      # If no repo information is specified, Flathub will be used by default
-      install:
-        - org.gnome.Loupe
-      remove:
-        - org.mozilla.Thunderbird
-        - org.gnome.DejaDup
-        - org.gnome.World.PikaBackup
-        
-    user: {} # Also add Flathub user repo, but no user packages
-
+    
   - type: bling
     install:
       - 1password
