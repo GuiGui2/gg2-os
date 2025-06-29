@@ -19,7 +19,8 @@ modules:
 
   - type: dnf
     repos:
-      - atim/starship
+      copr:
+        - atim/starship
     install:
       packages:
         - micro
