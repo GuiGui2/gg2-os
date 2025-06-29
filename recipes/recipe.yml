@@ -16,6 +16,7 @@ modules:
     files:
       - source: system
         destination: /
+  - from-file: common/fonts.yml
   - from-file: common/packages.yml
   - from-file: common/flatpaks.yml
   - from-file: common/bling.yml
