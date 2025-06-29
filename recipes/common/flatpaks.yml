@@ -3,6 +3,9 @@ system:
   install:
     - org.gnome.Loupe
     - com.borgbase.Vorta
+    - io.github.celluloid_player.Celluloid
+    - com.protonvpn.www
+    - io.trezor.suite
   remove:
     - org.mozilla.Thunderbird
     - org.gnome.DejaDup
