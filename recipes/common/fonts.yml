@@ -4,6 +4,7 @@ modules:
       nerd-fonts:
         - Iosevka
         - FiraCode
+        - FiraMono
         - JetBrainsMono
         - NerdFontsSymbolsOnly
       google-fonts:
