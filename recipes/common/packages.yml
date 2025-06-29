@@ -10,3 +10,8 @@ install:
     - bottom
     - firefox
     - firefox-langpacks
+    - power-profiles-daemon
+remove:
+  packages:
+    - tuned
+    - tuned-ppd
