@@ -2,9 +2,11 @@ type: dnf
 repos:
   copr:
     - atim/starship
+    - atim/bottom
 install:
   packages:
     - micro
     - starship
+    - bottom
     - firefox
     - firefox-langpacks
