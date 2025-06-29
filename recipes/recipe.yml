@@ -21,4 +21,5 @@ modules:
   - from-file: common/flatpaks.yml
   - from-file: common/bling.yml
   - from-file: common/systemd.yml
+  - from-file: common/gnome-extensions.yml
   - type: signing
