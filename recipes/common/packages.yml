@@ -8,3 +8,4 @@ install:
     - starship
     - firefox
     - firefox-langpacks
+    - power-profiles-daemon
