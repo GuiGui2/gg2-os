@@ -1,2 +1,3 @@
-script:
+type: script
+scripts: 
   - msfontinstall.sh
