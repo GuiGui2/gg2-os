@@ -14,7 +14,3 @@ modules:
         - Merriweather
         - Cardo
         - Libre Baskerville
-
-  - type: script
-    scripts:
-      - msfontinstall.sh
