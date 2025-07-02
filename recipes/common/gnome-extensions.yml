@@ -1,5 +1,6 @@
 type: gnome-extensions
 install:
   - ArcMenu
+  - Bluetooth Battery Meter
 uninstall:
   - GSConnect
