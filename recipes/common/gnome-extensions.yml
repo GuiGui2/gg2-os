@@ -2,6 +2,6 @@ type: gnome-extensions
 install:
   - ArcMenu
   - Bluetooth Battery Meter
-  - Bing Wallpaper
+  - 1262 
 uninstall:
   - GSConnect
