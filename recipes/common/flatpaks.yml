@@ -12,6 +12,8 @@ system:
     - md.obsidian.Obsidian
     - one.flipperzero.qFlipper
     - org.gnome.SimpleScan
+    - org.onlyoffice.desktopeditors
+    - com.gooseberrydevelopment.pinepods
   remove:
     - org.mozilla.Thunderbird
     - org.gnome.DejaDup
