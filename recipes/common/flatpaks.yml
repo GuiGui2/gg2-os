@@ -14,6 +14,7 @@ system:
     - org.gnome.SimpleScan
     - org.onlyoffice.desktopeditors
     - com.gooseberrydevelopment.pinepods
+    - org.chromium.Chromium
   remove:
     - org.mozilla.Thunderbird
     - org.gnome.DejaDup
