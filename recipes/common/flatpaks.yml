@@ -7,6 +7,8 @@ system:
     - com.protonvpn.www
     - io.trezor.suite
     - net.nokyan.Resources
+    - com.calibre_ebook.calibre
+    - com.github.qarmin.czkawka
   remove:
     - org.mozilla.Thunderbird
     - org.gnome.DejaDup
