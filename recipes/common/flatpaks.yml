@@ -9,6 +9,9 @@ system:
     - net.nokyan.Resources
     - com.calibre_ebook.calibre
     - com.github.qarmin.czkawka
+    - md.obsidian.Obsidian
+    - one.flipperzero.qFlipper
+    - org.gnome.SimpleScan
   remove:
     - org.mozilla.Thunderbird
     - org.gnome.DejaDup
