@@ -6,7 +6,7 @@ name: gg2-os
 description: Customized image to include Firefox and 1Password in the base.
 
 # the base image to build on top of (FROM) and the version tag to use
-base-image: ghcr.io/ublue-os/bluefin-nvidia-open
+base-image: ghcr.io/ublue-os/bluefin-dx-nvidia-open
 image-version: latest
 
 # module configuration, executed in order
