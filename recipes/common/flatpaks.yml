@@ -2,7 +2,7 @@ type: default-flatpaks
 system:
   install:
     - org.gnome.Loupe
-    - org.gnome.podcasts
+    - org.gnome.Podcasts
     - com.borgbase.Vorta
     - io.github.celluloid_player.Celluloid
     - com.protonvpn.www
