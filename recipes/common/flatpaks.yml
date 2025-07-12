@@ -2,6 +2,7 @@ type: default-flatpaks
 system:
   install:
     - org.gnome.Loupe
+    - org.gnome.podcasts
     - com.borgbase.Vorta
     - io.github.celluloid_player.Celluloid
     - com.protonvpn.www
@@ -13,7 +14,6 @@ system:
     - one.flipperzero.qFlipper
     - org.gnome.SimpleScan
     - org.onlyoffice.desktopeditors
-    - com.gooseberrydevelopment.pinepods
     - org.chromium.Chromium
   remove:
     - org.mozilla.Thunderbird
