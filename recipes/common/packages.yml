@@ -11,6 +11,7 @@ install:
     - firefox
     - firefox-langpacks
     - power-profiles-daemon
+    - task
 # Required for extra fonts
     - cabextract # for extracting MS fonts from source
     - xorg-x11-font-utils # dependency of msttcore-fonts-installer-2.6-1.noarch
