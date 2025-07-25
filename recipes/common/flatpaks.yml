@@ -3,7 +3,6 @@ system:
   install:
     - org.gnome.Loupe
     - org.gnome.Podcasts
-    - com.borgbase.Vorta
     - io.github.celluloid_player.Celluloid
     - com.protonvpn.www
     - io.trezor.suite
