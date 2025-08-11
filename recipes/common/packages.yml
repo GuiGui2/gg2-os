@@ -3,6 +3,8 @@ repos:
   copr:
     - atim/starship
     - atim/bottom
+  files: 
+    - https://repository.mullvad.net/rpm/stable/mullvad.repo
 install:
   packages:
     - micro
@@ -12,6 +14,7 @@ install:
     - firefox-langpacks
     - power-profiles-daemon
     - task
+    - mullvad-browser
 # Required for extra fonts
     - cabextract # for extracting MS fonts from source
     - xorg-x11-font-utils # dependency of msttcore-fonts-installer-2.6-1.noarch
