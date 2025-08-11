@@ -8,7 +8,6 @@ configurations:
       - com.protonvpn.www
       - io.trezor.suite
       - net.nokyan.Resources
-      - com.calibre_ebook.calibre
       - com.github.qarmin.czkawka
       - md.obsidian.Obsidian
       - one.flipperzero.qFlipper
