@@ -5,6 +5,7 @@ repos:
     - atim/bottom
   files: 
     - https://repository.mullvad.net/rpm/stable/mullvad.repo
+    - protonvpn.repo
 install:
   packages:
     - micro
