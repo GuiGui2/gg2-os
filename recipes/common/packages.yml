@@ -6,6 +6,8 @@ repos:
   files: 
     - https://repository.mullvad.net/rpm/stable/mullvad.repo
     - protonvpn.repo
+    - https://aaddrick.github.io/claude-desktop-debian/rpm/claude-desktop.repo
+    
 install:
   packages:
     - micro
@@ -15,6 +17,7 @@ install:
     - firefox-langpacks
     - power-profiles-daemon
     - task
+    - claude-desktop
     # - proton-vpn-gnome-desktop
 # Required for extra fonts
     - cabextract # for extracting MS fonts from source
