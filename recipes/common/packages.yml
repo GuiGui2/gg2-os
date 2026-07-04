@@ -7,7 +7,6 @@ repos:
     - https://repository.mullvad.net/rpm/stable/mullvad.repo
     - protonvpn.repo
     - https://aaddrick.github.io/claude-desktop-debian/rpm/claude-desktop.repo
-    
 install:
   packages:
     - micro
