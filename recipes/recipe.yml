@@ -7,7 +7,7 @@ description: Customized image to include Firefox and 1Password in the base.
 
 # the base image to build on top of (FROM) and the version tag to use
 # base-image: ghcr.io/ublue-os/bluefin-dx-nvidia-open
-base-image: ghcr.io/projectbluefin/bluefin
+base-image: ghcr.io/projectbluefin/bluefin-gdx
 image-version: stable
 
 # module configuration, executed in order
